@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+My name is Christopher Collier and I am a 5th year Computer Science major at UT. I enjoy reading and playing/listening to music in my free time.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[christopher.collier@utexas.edu](mailto:christopher.collier@utexas.edu)
