@@ -21,7 +21,7 @@ Next week and the week after I will be working hard to finish our IDB project. T
 
 Overall, this course has been very challenging to me. I don't possess the same coding prowess that the other students possess. Going into the class, I had no experience in front-end development or building a website. As a result, I have learned a whole lot about a lot of different subjects. I am so thankful for my teammates for having their ability and skill to get the website going.
 
-I worked an internship doing software consulting this summer where I did agile development with scrum meetings and even used slack. This class does an excellent job of mimicking the real-life, real_world software development process. I wouldn't be aware of it now had I not worked the internship but, looking back, taking this class BEFORE having a real world job would've been an incredibly beneficial experience. Regardless, I have learned an incredible amount in this class and am very thankful for having had taken it. 
+I worked an internship doing software consulting this summer where I did agile development with scrum meetings and even used slack. This class does an excellent job of mimicking the real-life, real-world software development process. I wouldn't be aware of it now had I not worked the internship but, looking back, taking this class BEFORE having a real world job would've been an incredibly beneficial experience. Regardless, I have learned an incredible amount in this class and am very thankful for having had taken it. 
 
 ###### Learn from my mistakes
 
