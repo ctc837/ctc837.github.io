@@ -3,7 +3,7 @@ layout: post
 title: Weekly Blog, Nov 6
 ---
 
-This is my first blog post. Initially, various forces combined to result in me not having the desire to do the blog post. As the semester comes to a close, I figured that I need to try to scrape together any points possible at the very end. “The best time to plant a tree was 20 years ago. The second best time is now.” – Chinese Proverb.
+This is my first blog post. Initially, various forces combined to result in me not doing any blog posts. I continued to overlook the blog posts all semester. All of this was a mistake. DO THE BLOG POSTS. I will be doing posts for the rest of the semester (a whopping 3 weeks). “The best time to plant a tree was 20 years ago. The second best time is now.” – Chinese Proverb.
 
 ###### What did I do this week?
 
@@ -19,10 +19,10 @@ Next week and the week after I will be working hard to finish our IDB project. T
 
 ###### My experience
 
-Overall, this course has been very challenging to me. I don't possess the same coding prowess that the other students possess. Going into the class, I had no experience in front-end development or building a website. As a result, I have learned a whole lot about a lot of different subjects. 
+Overall, this course has been very challenging to me. I don't possess the same coding prowess that the other students possess. Going into the class, I had no experience in front-end development or building a website. As a result, I have learned a whole lot about a lot of different subjects. I am so thankful for my teammates for having their ability and skill to get the website going.
 
-I worked an internship doing software consulting this summer where I did agile development with scrum meetings and even used slack. This class does an excellent job of mimicking the real-life, real_world software development process. I wouldn't be aware of it now had I not worked the internship but, looking back, taking this class BEFORE having a real world job would've been incredibly helpful for my experience this summer. Regardless, I have learned an incredible amount in this class and am very thankful for having taking it. 
+I worked an internship doing software consulting this summer where I did agile development with scrum meetings and even used slack. This class does an excellent job of mimicking the real-life, real_world software development process. I wouldn't be aware of it now had I not worked the internship but, looking back, taking this class BEFORE having a real world job would've been an incredibly beneficial experience. Regardless, I have learned an incredible amount in this class and am very thankful for having had taken it. 
 
 ###### Learn from my mistakes
 
-One thing that I really learned the hard way this week is to always make sure your code compiles/runs/does not make backward progress before pushing for your teammates to use. At least once during the last phase of the project somebody would yell, "CHRIS THE CODE YOU PUSHED DOESN'T COMPILE!!". Especially during crunch time approaching a hard deadline, this can be incredibly stressful when you push code that doesn't work. Please, learn from my mistake: your coworkers will hate you if your code doesn't compile if there's a deadline approaching.
+One thing that I really learned the hard way this week is to always make sure code compiles/runs/does not make backward progress before pushing for your teammates to use. At least once during the last phase of the project somebody yelled, "CHRIS THE CODE YOU PUSHED DOESN'T COMPILE!!". Especially during crunch time approaching a hard deadline, it can be incredibly stressful when you push code that doesn't work. Please, learn from my mistake: your coworkers will hate you if your code doesn't compile and there's a deadline approaching.
