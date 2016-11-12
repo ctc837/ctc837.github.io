@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Weekly Blog, Nov 6
