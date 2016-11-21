@@ -7,7 +7,7 @@ Happy Sunday! There is less than two weeks left of my academic career. That is t
 
 ###### What did I do this week?
 
-This week my groupp had our final IDB project due. It was pretty stressful, as were the other two projects for this website. We got all of the work done (we think!) and are very condfident with our final product. I learned an unbelievable amount over an array of topics and I am very grateful for it. But at the same time, I am very thankful that there isn't another phase!
+This week my groupp had our final IDB project due. It was pretty stressful, as were the other two projects for this website. We got all of the work done (we think!) and are very condfident with our final product. I learned an unbelievable amount over an array of topics and I am very grateful for it.
 
 ###### What's in my way?
 
