@@ -3,7 +3,7 @@ layout: post
 title: Weekly Blog, Nov 27
 ---
 
-Happy Satuday! This is my very last week of school...that is crazy! It has been a wild four and a half years with some very good times and plenty of not-so-good times. I'll really miss school, but I am very ready for the next chapter of my life to begin.
+Happy Satuday! This is my very last week of school...that is crazy! It has been a wild four and a half years with lots of very good times and plenty of not-so-good times. I'll really miss school, but I am very ready for the next chapter of my life to begin.
 
 ###### What did I do this week?
 
