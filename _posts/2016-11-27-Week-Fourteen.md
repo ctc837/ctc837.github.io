@@ -1,21 +1,25 @@
 ---
 layout: post
-title: Weekly Blog, Nov 20
+title: Weekly Blog, Nov 27
 ---
 
-Happy Satuday! This is my very last week of school...that is crazy! It has been a wild four and a half years with some very good times and plenty of not-so-good times
+Happy Satuday! This is my very last week of school...that is crazy! It has been a wild four and a half years with some very good times and plenty of not-so-good times. I'll really miss school, but I am very ready for the next chapter of my life to begin.
 
 ###### What did I do this week?
 
-This week my groupp had our final IDB project due. It was pretty stressful, as were the other two projects for this website. We got all of the work done (we think!) and are very condfident with our final product. I learned an unbelievable amount over an array of topics and I am very grateful for it.
+This week I spent most of my time studying for my last midterms but overall it was a very relaxing week. Now it is time for me to roll up my sleeves and finish my academic career strong. I was best man for my friend's wedding last night so now that that is over all I have this next week is school related work for this class and theory of computation.
 
 ###### What's in my way?
 
-At this point, not much. I've got two exams next week that I started studying for today and that is pretty much it. There are some small other tasks I have to do to prepare for graduation but not too much overall.
+There isn't too much in my way now except for time...I only have 5 more days to really study hard for these exams. I also have a presentation for this class over our IDB project. I already created the presentation so now all we need to do is discuss it.
 
 ###### What will I do this week?
 
-This week, my main task is to study for my two midterm exams next Thursday (Theory of Computation and this course). I don't have any finals so this is it as far as school goes for me! One final effort! In addition, I am best man at my friend's wedding this Friday...so I need to write a speech for him. Thanksgiving week is this week also and it'll be great to spend quality time with my family.
+This week, my main task is to study for my two midterm exams next Thursday (Theory of Computation and this course). I don't have any finals so this is it as far as school goes for me! One final effort! I am currently in my hometown of Kingwood, TX because of my friend's wedding but I plan on going back to Austin tomorrow or monday. While I'm here I'll really be able to shut myself off from the world in order to study.
 
-Most of us have had to switch over from swiping our debit and credit cards to inserting them into the chip readers. Although it is a small change, it had been a hot topic for small talk everywhere. Fortunately, all of the hassle and small talk has been worth it: the EMV chip has supposedly [reduced credit card](https://www.sciencedaily.com/videos/f26d005d1da6fd71c343c11f6b06e542.htm) fraud by 18%. This is done by [authentification and making duplication of the card nearly impossible](http://www.cleveland.com/business/index.ssf/2014/10/heres_why_credit_and_debit_car.html). So, next time you get frustrated at the chip reader for being so slow and beeping loudly, just remember the benefits.
+The transition from college into the working world is a very tough transition for some and a piece of cake for others. No matter where you fall on the spectrum it is without-a-doubt a HUGE transition to make. I personally think it will be a very tough transition for me, mostly because I had such a great time in college that it'll really be hard to say goodbye. There are [lots of tips](http://www.huffingtonpost.com/2014/05/02/health-after-college_n_5227100.html)  to help with the transition from college to the real world. After reading this article, I feel like these are great overall tips for living a happy and peaceful life! I'll definitely be utilizing most if not all of these to help me in the future.
+
+"Don't cry because it's over, smile because it happened" -Ludwig Jacobowski 
+
+I am incredibly grateful for the experience I've had taking this class. I've learned an incredible amount and made some friends and positive experiences along the way. I will definitely recommend this class to and fellow computer science majors that I interact with in the future (but only if they're up for a challenge!).
 
