@@ -21,5 +21,5 @@ The transition from college into the working world is a very tough transition fo
 
 "Don't cry because it's over, smile because it happened" -Ludwig Jacobowski 
 
-I am incredibly grateful for the experience I've had taking this class. I've learned an incredible amount and made some friends and positive experiences along the way. I will definitely recommend this class to and fellow computer science majors that I interact with in the future (but only if they're up for a challenge!).
+I am incredibly grateful for the experience I've had taking this class. I've learned an incredible amount and made some friends and positive experiences along the way. I will definitely recommend this class to any fellow computer science majors that I interact with in the future (but only if they're up for a challenge!).
 
